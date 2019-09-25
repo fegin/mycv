@@ -179,7 +179,7 @@ publications:
         authors: Minjie Wang, <u>Chien-Chin Huang</u>, Jinyang Li
         conference: arXiv, 2018
 
-      - title: Spartan: A Distributed Array Framework with Smart Tiling
+      - title: "Spartan: A Distributed Array Framework with Smart Tiling"
         authors: <u>Chien-Chin Huang</u>, Qi Chen, Zhaoguo Wang, Russell Power, Jorge Ortiz, Jinyang Li, Zhen Xiao
         conference: Usenix ATC, 2015
 
