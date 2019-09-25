@@ -12,11 +12,11 @@ sidebar:
     avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: Please contact me through linkedin
-    phone: Please contact me through linkedin
+    email: Contact me through linkedin
+    phone: Contact me through linkedin
     website: fegin.github.io/mycv/
     linkedin: cchuangtw
-    github: sharu725
+    github: fegin
     gitlab:
     bitbucket:
     twitter:
@@ -65,29 +65,18 @@ education:
       university: National Tsing Hua University, Taiwan
       time: 2005 - 2007
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
     - degree: BSc in Computer Science
       university: National Tsing Hua University, Taiwan
       time: 2001 - 2005
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
 experiences:
+    - role: Research Assistant
+      time: 2013 - 2019
+      company: New York University, New York
+      details: |
+
     - role: Software Engineer Intern
       time: 2016
       company: Google Inc., Mountain View
@@ -109,19 +98,6 @@ experiences:
       time: 2015
       company: IBM Inc., Yorktown Heights
       details: |
-
-    - role: Research Assistant
-      time: 2013 - 2019
-      company: New York University, New York
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
     - role: Senior Software Enginner
       time: 2011 - 2012
@@ -164,7 +140,7 @@ projects:
 publications:
     title: Publications
     intro: |
-      #<a href=https://scholar.google.com/citations?user=vMMXCLAAAAAJ&hl=en>Google scholar link</a>
+      <a href=https://scholar.google.com/citations?user=vMMXCLAAAAAJ&hl=en>Google scholar link</a>
 
     papers:
       - title: "SwapAdvisor: Push Deep Learning Beyond the GPU Memory Limit via Smart Swapping"
