@@ -164,22 +164,37 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      <a href=https://scholar.google.com/citations?user=vMMXCLAAAAAJ&hl=en>Google scholar link</a>
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Support Very Large Models using Dataflow Graph Partitioning
+        authors: Minjie Wang, <u>Chien-Chin Huang</u>, Jinyang Li
+        conference: Usenix EuroSys, 2019
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Unifying Data, Model and Hybrid Parallelism in Deep Learning via Tensor Tiling
+        authors: Minjie Wang, <u>Chien-Chin Huang</u>, Jinyang Li
+        conference: arXiv, 2018
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Spartan: A Distributed Array Framework with Smart Tiling
+        authors: <u>Chien-Chin Huang</u>, Qi Chen, Zhaoguo Wang, Russell Power, Jorge Ortiz, Jinyang Li, Zhen Xiao
+        conference: Usenix ATC, 2015
+
+      - title: Get More With Less: Near Real-Time Image Clustering on Mobile Phones
+        authors: Jorge Ortiz, <u>Chien-Chin Huang</u>, Supriyo Chakraborty
+        conference: arXiv, 2015
+
+      - title: Garbage Collection for Multiversion Index in Flash-based Embedded DataBases
+        authors: Po-Chun Huang, Yuan-Hao Chang, Kam-Yiu Lam, Jian-Tao Wang, <u>Chien-Chin Huang</u>
+        conference: ACM Transactions on Design Automation of Electronic Systems, 2014
+
+      - title: Enhancing Microkernel Performance on VLIW DSP Processors via Multiset Context Switch
+        authors: Brian K. Hsieh, Yung-Chia Lin, <u>Chien-Chin Huang</u>, Jenq Kuen Lee.
+        conference: Journal of Signal Processing Systems, Vol. 51
+
+      - title: Integrating compiler and system toolkit flow for embedded VLIW DSP processors
+        authors: Chi Wu, Kun-Yuan Hsieh, Yung-Chia Lin, Chung-Ju Wu, Wen-Li Shih, Shih-Chang Chen, Chung-Kai Chen, <u>Chien-Ching Huang</u>, Yi-Ping You, Jenq Kuen Lee
+        conference: IEEE RTCSA, 2006
+
 
 skills:
     title: Skills &amp; Proficiency
