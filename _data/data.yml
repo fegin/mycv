@@ -7,41 +7,41 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Chien-Chin Huang
+    tagline: Looking for Backend/Infrastructure/Machine Learning Infrastructure Software Engineer Job.
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    email: Please contact me through linkedin
+    phone: Please contact me through linkedin
+    website: fegin.github.io/mycv/
+    linkedin: cchuangtw
     github: sharu725
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter:
+    stack-overflow:
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    goodreads:
 
     languages:
-      - idiom: English
+      - idiom: Traditional Chinese
         level: Native
 
-      - idiom: French
+      - idiom: Englinsh
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Taiwanese Hokkien
+        level: Native
 
     interests:
-      - item: Climbing
+      - item: Reading
         link:
 
-      - item: Snowboarding
+      - item: Hiking
         link:
 
-      - item: Cooking
+      - item: Ramen & Steak
         link:
 
 career-profile:
