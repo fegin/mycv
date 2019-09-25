@@ -140,7 +140,7 @@ projects:
 publications:
     title: Publications
     intro: |
-      <a href=https://scholar.google.com/citations?user=vMMXCLAAAAAJ&hl=en>Google scholar link</a>
+      "<a href=https://scholar.google.com/citations?user=vMMXCLAAAAAJ&hl=en>Google scholar link</a>"
 
     papers:
       - title: "SwapAdvisor: Push Deep Learning Beyond the GPU Memory Limit via Smart Swapping"
