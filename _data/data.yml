@@ -88,13 +88,12 @@ experiences:
               performance.
           2. **Tofu: Distributing Tensor Computation for Large-scale Deep Learning**
 
-              Tofu, a system that partitions very large DNN models across multiple
-              GPUs device to reduce per-GPU memory footprint while achieving a good
-              performance.
-              In order to understand the feasbile partition methods for all the operators,
-              Tofu provides a simple domain specific language to decribe the semantics
+              Tofu partitions very large DNN models across multiple GPUs device to
+              reduce per-GPU memory footprint while achieving good performance.
+              In order to understand the feasible partition methods for all the operators,
+              Tofu provides a simple domain-specific language to describe the semantics
               of an operator.
-              Tofu analyzes semantics of each operator in the target DNN model and
+              Tofu analyzes the semantics of each operator in the target DNN model and
               applies a recursive search algorithm to minimize the total communication
               costs.
 
