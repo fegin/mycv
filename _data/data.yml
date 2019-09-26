@@ -129,7 +129,7 @@ publications:
       - title: Support Very Large Models using Dataflow Graph Partitioning
         authors: Minjie Wang, <u>Chien-Chin Huang</u>, Jinyang Li
         conference: Usenix EuroSys, 2019
-        link: [pdf](https://arxiv.org/abs/1807.08887)
+        link: https://arxiv.org/abs/1807.08887
 
       - title: Unifying Data, Model and Hybrid Parallelism in Deep Learning via Tensor Tiling
         authors: Minjie Wang, <u>Chien-Chin Huang</u>, Jinyang Li
