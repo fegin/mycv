@@ -75,7 +75,7 @@ experiences:
       company: New York University, New York
       details: |
           There are three main projects during my PhD study.
-          1. <br>"SwapAdvisor: Support Large Deep Learning Models via Smart Swapping"</br>
+          1. **"SwapAdvisor: Support Large Deep Learning Models via Smart Swapping"**
               SwapAdvisor, a swapping system that automatically swaps temporarily
               unused tensors from GPU memory to CPU memory. 
               To minimize the communication overhead, SwapAdvisor analyzes the
