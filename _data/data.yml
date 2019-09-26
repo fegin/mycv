@@ -87,14 +87,15 @@ experiences:
             performance.
           2. **Tofu: Distributing Tensor Computation for Large-scale Deep Learning**
           3. **Spartan: Distributed Array Programming Framework with Smart Tiling**
-            Spartan is a distributed array framework, built on top of a set of
-            higher-order dataflow operators.
-            Based on the operators, Spartan provides a collection of
-            Numpy-like array APIs. 
-            To achieve good performance for the distributed application,
-            Spartan analyzes the communication pattern of the dataflow graph
-            captured through the operators and applies a greedy strategy to
-            find a good partition scheme to minimize the communication cost.
+
+              Spartan is a distributed array framework, built on top of a set of
+              higher-order dataflow operators.
+              Based on the operators, Spartan provides a collection of
+              Numpy-like array APIs. 
+              To achieve good performance for the distributed application,
+              Spartan analyzes the communication pattern of the dataflow graph
+              captured through the operators and applies a greedy strategy to
+              find a good partition scheme to minimize the communication cost.
 
     - role: Software Engineer Intern
       time: 2016
