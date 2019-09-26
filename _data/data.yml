@@ -126,7 +126,7 @@ publications:
         authors: <u>Chien-Chin Huang</u>, Gu Jin, Jinyang Li
         conference: Under submission
 
-      - title: . [Support Very Large Models using Dataflow Graph Partitioning](https://arxiv.org/abs/1807.08887)
+      - title: [Support Very Large Models using Dataflow Graph Partitioning](https://arxiv.org/abs/1807.08887)
         authors: Minjie Wang, <u>Chien-Chin Huang</u>, Jinyang Li
         conference: Usenix EuroSys, 2019
 
