@@ -127,7 +127,7 @@ publications:
         conference: Under submission
 
       - title: Support Very Large Models using Dataflow Graph Partitioning
-        link: http://news.cs.nyu.edu/~jinyang/pub/tofu-eurosys19.pdf
+        link: https://arxiv.org/abs/1807.08887
         authors: Minjie Wang, <u>Chien-Chin Huang</u>, Jinyang Li
         conference: Usenix EuroSys, 2019
 
