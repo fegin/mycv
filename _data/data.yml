@@ -85,7 +85,7 @@ experiences:
             Based on the optimized operator schedule and memory allocation,
             SwapAdvisor can determine what and when to swap to achieve good
             performance.
-          2. **Tofu: Distributing Tensor Computation Automatically for Large-scale Deep Learning**
+          2. **Tofu: Distributing Tensor Computation for Large-scale Deep Learning**
           3. **Spartan: Distributed Array Programming Framework with Smart Tiling**
             Spartan is a distributed array framework, built on top of a set of
             higher-order dataflow operators.
