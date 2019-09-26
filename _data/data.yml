@@ -74,7 +74,7 @@ experiences:
       time: 2013 - 2019
       company: New York University, New York
       details: |
-          There are three main projects during my PhD study.
+          I mainly participated three projects during my PhD study.
           1. **SwapAdvisor: Support Large Deep Learning Models via Smart Swapping**
               SwapAdvisor, a swapping system that automatically swaps temporarily
               unused tensors from GPU memory to CPU memory. 
@@ -90,9 +90,7 @@ experiences:
               Spartan is a distributed array framework, built on top of a set of
               higher-order dataflow operators.
               Based on the operators, Spartan provides a collection of
-              Numpy-like array APIs. Developers can choose the built-in array
-              APIs or directly use the operators to construct machine learning
-              applications.
+              Numpy-like array APIs. 
               To achieve good performance for the distributed application,
               Spartan analyzes the communication pattern of the dataflow graph
               captured through the operators and applies a greedy strategy to
