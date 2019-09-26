@@ -47,13 +47,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      I'm currently looking for a software engineer job in backend, infrasturcture,
+      and machine learning systems (ML infrasturcture).
+      I just received my PhD degree from New York University advisied by Jinyang Li.
+      My research focus on scalable machine learning systems that help AI developers to 
+      scale the algorithmes.
+      Before my PhD study, I worked 4 years in MediaTek, Taiwan, as a software engineer.
+      My duty was to develop system softwares (e.g., hardware drivers, controller sofrware)
+      for multi-core mobile phone processors.
 
 education:
     - degree: PhD in Computer Science
@@ -73,9 +74,19 @@ experiences:
       time: 2013 - 2019
       company: New York University, New York
       details: |
-          - "SwapAdvisor: Support Large Deep Learning Models via Smart Swapping"
-          - "Tofu: Distributing Tensor Computation Automatically for Large-scale Machine Learning"
-          - "Spartan: Distributed Array Programming Framework with Smart Tiling"
+          There are three main projects during my PhD study.
+          1. "SwapAdvisor: Support Large Deep Learning Models via Smart Swapping"
+          SwapAdvisor, a swapping system that automatically swaps temporarily
+          unused tensors from GPU memory to CPU memory. 
+          To minimize the communication overhead, SwapAdvisor analyzes the
+          dataflow graph of the given DNN model and uses a custom-designed
+          genetic algorithm to optimize the operator scheduling and memory
+          allocation.
+          Based on the optimized operator schedule and memory allocation,
+          SwapAdvisor can determine what and when to swap to achieve good
+          performance.
+          2. "Tofu: Distributing Tensor Computation Automatically for Large-scale Machine Learning"
+          3. "Spartan: Distributed Array Programming Framework with Smart Tiling"
 
     - role: Software Engineer Intern
       time: 2016
