@@ -73,9 +73,9 @@ experiences:
       time: 2013 - 2019
       company: New York University, New York
       details: |
-          - SwapAdvisor
-          - Tofu
-          - Spartan
+          - "SwapAdvisor: Support Large Deep Learning Models via Smart Swapping"
+          - "Tofu: Distributing Tensor Computation Automatically for Large-scale Machine Learning"
+          - "Spartan: Distributed Array Programming Framework with Smart Tiling"
 
     - role: Software Engineer Intern
       time: 2016
