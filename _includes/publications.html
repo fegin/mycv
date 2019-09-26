@@ -19,7 +19,7 @@
   {% for publication in publications.papers %}
   <div class="item">
     {% if publication.link %}
-    <div class="publication-title"><a href="{{ publication.link }}">{{ publication.title }}</a></div>
+    <div class="publication-title">{{ publication.title }} <a href="{{ publication.link }}">[pdf]</a></div>
     {% else %}
     <div class="publication-title">{{ publication.title }}</div>
     {% endif %}
