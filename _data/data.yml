@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -143,14 +143,14 @@ skills:
       - name: Python
         level: 90%
 
-      - name: C++/C
-        level: 90%
+      - name: C/C++
+        level: 80%
 
       - name: Linux
-        level: 90%
+        level: 80%
 
       - name: Bash/Zsh Script
-        level: 60%
+        level: 50%
 
       - name: Java
         level: 50%
