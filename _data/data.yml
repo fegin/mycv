@@ -49,15 +49,15 @@ career-profile:
     summary: |
       I'm currently looking for a software engineer job in backend, infrastructure,
       and machine learning systems (ML infrastructure).
-      I just received (09/2019) my Ph.D. degree from New York University, advised by Jinyang Li.
+      I just received (09/2019) my PhD degree from New York University, advised by Jinyang Li.
       My research focuses on scalable machine learning systems that help AI developers to 
       scale the algorithms.
-      Before my Ph.D. study, I worked for 4 years in MediaTek, Taiwan, as a software engineer.
+      Before my PhD study, I worked for 4 years in MediaTek, Taiwan, as a software engineer.
       My duty was to develop system software (e.g., hardware drivers and management software)
       for multi-core mobile phone processors.
 
 education:
-    - degree: Ph.D. in Computer Science
+    - degree: PhD in Computer Science
       university: New York University
       time: 2013 - 2019
 
@@ -74,7 +74,7 @@ experiences:
       time: 2013 - 2019
       company: New York University, New York
       details: |
-          Following list the three projects I participated during my Ph.D. study.
+          Following list the three projects I participated during my PhD study.
           1. **SwapAdvisor: Support Large Deep Learning Models via Smart Swapping**
 
               SwapAdvisor, a swapping system that automatically swaps temporarily
