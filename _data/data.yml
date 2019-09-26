@@ -77,37 +77,37 @@ experiences:
           Following list the three projects I participated during my Ph.D. study.
           1. **SwapAdvisor: Support Large Deep Learning Models via Smart Swapping**
 
-            SwapAdvisor, a swapping system that automatically swaps temporarily
-            unused tensors from GPU memory to CPU memory. 
-            To minimize the communication overhead, SwapAdvisor analyzes the
-            dataflow graph of the given DNN model and uses a custom-designed
-            genetic algorithm to optimize the operator scheduling and memory
-            allocation.
-            Based on the optimized operator schedule and memory allocation,
-            SwapAdvisor can determine what and when to swap to achieve good
-            performance.
+              SwapAdvisor, a swapping system that automatically swaps temporarily
+              unused tensors from GPU memory to CPU memory. 
+              To minimize the communication overhead, SwapAdvisor analyzes the
+              dataflow graph of the given DNN model and uses a custom-designed
+              genetic algorithm to optimize the operator scheduling and memory
+              allocation.
+              Based on the optimized operator schedule and memory allocation,
+              SwapAdvisor can determine what and when to swap to achieve good
+              performance.
           2. **Tofu: Distributing Tensor Computation for Large-scale Deep Learning**
 
-            Tofu, a system that partitions very large DNN models across multiple
-            GPUs device to reduce per-GPU memory footprint while achieving a good
-            performance.
-            In order to understand the feasbile partition methods for all the operators,
-            Tofu provides a simple domain specific language to decribe the semantics
-            of an operator.
-            Tofu analyzes semantics of each operator in the target DNN model and
-            applies a recursive search algorithm to minimize the total communication
-            costs.
+              Tofu, a system that partitions very large DNN models across multiple
+              GPUs device to reduce per-GPU memory footprint while achieving a good
+              performance.
+              In order to understand the feasbile partition methods for all the operators,
+              Tofu provides a simple domain specific language to decribe the semantics
+              of an operator.
+              Tofu analyzes semantics of each operator in the target DNN model and
+              applies a recursive search algorithm to minimize the total communication
+              costs.
 
           3. **Spartan: Distributed Array Programming Framework with Smart Tiling**
 
-            Spartan is a distributed array framework, built on top of a set of
-            higher-order dataflow operators.
-            Based on the operators, Spartan provides a collection of
-            Numpy-like array APIs. 
-            To achieve good performance for the distributed application,
-            Spartan analyzes the communication pattern of the dataflow graph
-            captured through the operators and applies a greedy strategy to
-            find a good partition scheme to minimize the communication cost.
+              Spartan is a distributed array framework, built on top of a set of
+              higher-order dataflow operators.
+              Based on the operators, Spartan provides a collection of
+              Numpy-like array APIs. 
+              To achieve good performance for the distributed application,
+              Spartan analyzes the communication pattern of the dataflow graph
+              captured through the operators and applies a greedy strategy to
+              find a good partition scheme to minimize the communication cost.
 
     - role: Software Engineer Intern
       time: 2016
