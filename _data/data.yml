@@ -76,7 +76,7 @@ experiences:
           Following list the three projects I participated during my PhD study.
           1. **SwapAdvisor: Support Large Deep Learning Models via Smart Swapping**
 
-              SwapAdvisor can automatically swap temporarily unused tensors from GPU memory to CPU memory to support large DNN models. To minimize the communication overhead, SwapAdvisor analyzes the dataflow graph of the given DNN model and uses a custom-designed genetic algorithm to optimize the operator scheduling and memory allocation.  Based on the optimized operator schedule and memory allocation, SwapAdvisor can determine what and when to swap to achieve good performance.
+              SwapAdvisor can automatically swap temporarily unused tensors from GPU memory to CPU memory to support running larger DNN models. To minimize the communication overhead, SwapAdvisor analyzes the dataflow graph of the given DNN model and uses a custom-designed genetic algorithm to optimize the operator scheduling and memory allocation.  Based on the optimized operator schedule and memory allocation, SwapAdvisor can determine what and when to swap to achieve good performance.
 
           2. **Tofu: Distributing Tensor Computation for Large-scale Deep Learning**
 
