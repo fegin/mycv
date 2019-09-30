@@ -47,13 +47,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I'm currently looking for a software engineer job in backend, infrastructure,
-      and machine learning systems (ML infrastructure).
-      I received (09/2019) my PhD degree from New York University, advised by Prof. Jinyang Li.
-      My interest is distributed systems, and my PhD research focuses on build machine learning systems that help AI developers to distribute algorithms on a multi-GPU machine or a large-scale cluster.
-      Before my PhD study, I worked for 4 years in MediaTek, Taiwan, as a software engineer.
-      My duty was to develop system software (e.g., hardware drivers and management software)
-      for multi-core mobile phone processors.
+      I'm currently looking for a software engineer job in backend, infrastructure, and machine learning systems (ML infrastructure).  I received (09/2019) my PhD degree from New York University, advised by Prof. Jinyang Li. My interest is distributed systems. More specifically, my PhD research focuses on building machine learning systems that help AI developers to distribute algorithms on a multi-GPU machine or a large-scale cluster.  Before my PhD study, I worked for 4 years in MediaTek, Taiwan, as a software engineer.  My duty was to develop system software (e.g., hardware drivers and management software) for multi-core mobile phone processors.
 
 education:
     - degree: PhD in Computer Science
